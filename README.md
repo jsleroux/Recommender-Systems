@@ -4,7 +4,7 @@ The objective of this notebook (project) is to test multiple recommendation syst
 - Skorch: Get rid of the infamous Pytorch training loop.
 - scikit-surprise: Learn how the framework works to obtain some benchmarks to compare my implementations
 
-The dataset that was used is MovieLens 1m: http://files.grouplens.org/datasets/movielens/ml-1m-README.txt . The main reason I used this dataset is because it's the lar gstehat contained side information.
+The dataset that was used is MovieLens 1m: http://files.grouplens.org/datasets/movielens/ml-1m-README.txt . The main reason I used this dataset is because it's the largest that contained side information.
 
 I tried to implement a simple version of the following papers:  
 1- **Matrix Factorization techniques with SGD learning** - https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf
